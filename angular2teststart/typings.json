@@ -1,0 +1,5 @@
+{
+  "globalDevDependencies": {
+    "core-js": "registry:dt/core-js#0.9.7+20161130133742"
+  }
+}
